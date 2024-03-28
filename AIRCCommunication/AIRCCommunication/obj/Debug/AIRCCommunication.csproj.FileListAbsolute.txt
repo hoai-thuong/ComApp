@@ -1,0 +1,10 @@
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\bin\Debug\AIRCCommunication.exe.config
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\bin\Debug\AIRCCommunication.exe
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\bin\Debug\AIRCCommunication.pdb
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\obj\Debug\AIRCCommunication.csproj.AssemblyReference.cache
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\obj\Debug\AIRCCommunication.AIRCCommunication.resources
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\obj\Debug\AIRCCommunication.Properties.Resources.resources
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\obj\Debug\AIRCCommunication.csproj.GenerateResource.cache
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\obj\Debug\AIRCCommunication.csproj.CoreCompileInputs.cache
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\obj\Debug\AIRCCommunication.exe
+C:\Users\hoaithuong\Documents\Project\AIRCCommunication\AIRCCommunication\obj\Debug\AIRCCommunication.pdb
